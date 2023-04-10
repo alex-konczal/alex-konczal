@@ -6,6 +6,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
+
 ## Life in Aggregation
 I'm a data analyst with experience in Python, Tableau, Excel, SQL, and more. I've always enjoyed observing, learning, and **making connections to reveal meaning.** I have also always loved art, design, and making things.
 
